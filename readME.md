@@ -57,13 +57,6 @@ Make sure you have Node.js and npm installed. You can download them from [Node.j
 | PUT    | `/jokes/:id` | Update a resource by ID        |
 | DELETE | `/jokes/:id` | Delete a resource by ID        |
 
-### Importing Postman Collection
-
-1. Download the `postman_collection.json` from the repository.
-2. Open Postman and click on `Import`.
-3. Select the `postman_collection.json` file.
-
-
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
