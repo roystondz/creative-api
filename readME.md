@@ -1,6 +1,6 @@
 # My API
 
-This is a RESTful API created using Node.js. It allows you to perform CRUD operations on [resource name] and is tested using Postman.
+This is a RESTful API created using Node.js. It allows you to perform CRUD operations and is tested using Postman.
 
 ## Table of Contents
 
